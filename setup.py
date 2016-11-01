@@ -95,7 +95,7 @@ with open(os.path.join('flask_menu', 'version.py'), 'rt') as fp:
     version = g['__version__']
 
 setup(
-    name='Flask-Menu',
+    name='Unifispot-Menu',
     version=version,
     description=__doc__,
     long_description=readme + '\n\n' + history,
